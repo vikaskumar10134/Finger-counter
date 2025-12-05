@@ -1,0 +1,14 @@
+matplotlib==3.10.7
+mediapipe==0.10.14
+numpy==1.26.4
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
+pandas==2.3.3
+parso==0.8.5
+pillow==10.4.0
+platformdirs==4.5.0
+pycaw==20251023
+pycparser==2.23
+tensorboard==2.20.0
+tensorboard-data-server==0.7.2
+
